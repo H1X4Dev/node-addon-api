@@ -226,12 +226,12 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "node-addon-api",
+  "name": "@h1x4dev/node-addon-api",
   "optionalDependencies": {},
   "readme": "README.md",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nodejs/node-addon-api.git"
+    "url": "git+https://github.com/H1X4Dev/node-addon-api.git"
   },
   "scripts": {
     "prebenchmark": "node-gyp rebuild -C benchmark",
